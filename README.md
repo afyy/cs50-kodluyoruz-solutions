@@ -2,7 +2,7 @@
 
 kodluyoruz.org daki cs50x dersine ait problem setlerinin çözümleri
 
-solutions of problem sets cs50(2019) at harvar uni.
+solutions of problem sets cs50(2019) at harvard uni.
 
 NOT:
 
